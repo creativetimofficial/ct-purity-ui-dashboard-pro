@@ -76,9 +76,20 @@ Let us know your thoughts below. And good luck with development!
 
 [View all Pages](https://demos.creative-tim.com/purity-ui-dashboard-pro/#/admin/dashboard?ref=readme-pudpro).
 
-## Quick Start
+# Quick start
+
+Quick start options:
 
 - Buy from [Creative Tim](https://www.creative-tim.com/product/purity-ui-dashboard-pro?ref=readme-pudpro).
+
+## Terminal Commands
+
+1. Download and Install NodeJs LTS version from [NodeJs Official Page](https://nodejs.org/en/download/).
+2. Navigate to the root / directory and run yarn install/npm install to install our local dependencies.
+
+## Documentation
+
+The documentation for the Soft UI Dashboard is hosted at our [website](https://demos.creative-tim.com/docs-purity-ui-dashboard/?ref=readme-pudpro).
 
 ## File Structure
 
