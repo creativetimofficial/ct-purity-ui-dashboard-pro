@@ -89,7 +89,7 @@ Quick start options:
 
 ## Documentation
 
-The documentation for the Soft UI Dashboard is hosted at our [website](https://demos.creative-tim.com/docs-purity-ui-dashboard/?ref=readme-pudpro).
+The documentation for the Purity UI Dashboard PRO is hosted at our [website](https://demos.creative-tim.com/docs-purity-ui-dashboard/?ref=readme-pudpro).
 
 ## File Structure
 
