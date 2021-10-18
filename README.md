@@ -70,7 +70,7 @@ Let us know your thoughts below. And good luck with development!
 
 | React                                                                                                                                                                                            | Figma                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Purity PRO ReactJS Chakra Dashboard](https://i.ibb.co/r2k2fdS/Cover-Purity-Chakra-PRO-Thumbnail-React-JS.png](https://www.creative-tim.com/product/purity-ui-dashboard-pro?ref=readme-pudpro) | [![Purity PRO Figma Chakra Dashboard](https://i.ibb.co/zrKBk9D/Cover-Purity-Chakra-PRO-Thumbnail-Figma.png)](https://www.creative-tim.com/product/purity-ui-dashboard-pro?ref=readme-pudpro) |
+| [![Purity PRO ReactJS Chakra Dashboard](https://i.ibb.co/r2k2fdS/Cover-Purity-Chakra-PRO-Thumbnail-React-JS.png)](https://www.creative-tim.com/product/purity-ui-dashboard-pro?ref=readme-pudpro) | [![Purity PRO Figma Chakra Dashboard](https://i.ibb.co/zrKBk9D/Cover-Purity-Chakra-PRO-Thumbnail-Figma.png)](https://www.creative-tim.com/product/purity-ui-dashboard-pro?ref=readme-pudpro) |
 
 ## Demo
 
