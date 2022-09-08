@@ -1,5 +1,12 @@
 # Change Log
 
+
+## [2.0.2] 2022-09-08
+
+### Update v2.0.2
+
+- We deleted `fonts.js` and now you can change the fonts directly in `src/theme/styles.js`. You can also use @fontsource and import your fonts that way as well!
+
 ## [2.0.1] 2022-05-16
 
 ### Update v2.0.1
