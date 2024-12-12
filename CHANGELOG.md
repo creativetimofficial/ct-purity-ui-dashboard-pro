@@ -1,5 +1,12 @@
 # Change Log
 
+## [2.1.0] 2024-12-11
+
+### Update v2.1.0
+
+- Fixed all init errors
+- Updated to react-scripts v5.0.0
+
 
 ## [2.0.2] 2022-09-08
 
